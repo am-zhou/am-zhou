@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm a PhD student in Biostatistics at Harvard University
+- My research focuses on semi-competing risks for case-cohort design
+- How to reach me: [LinkedIn](www.linkedin.com/in/amyzhou)
 <!--
 **am-zhou/am-zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
